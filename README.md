@@ -1,7 +1,8 @@
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-yWUsZN0-QcoYFqpqPErWrRejpbxYLO93Q&usqp=CAU" alt="cover image" style="width: 100%; max-width: 100%;">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-yWUsZN0-QcoYFqpqPErWrRejpbxYLO93Q&usqp=CAU" alt="cover image" style="width: 100%; max-width: 100%; height: 300px">
+
 
 <h1 align="center">Hi 👋 I'm Shubhi Shukla</h1>
 <h3 align="center">A dedicated full-stack developer deeply driven by the art of coding and the thrill of crafting seamless digital experiences from frontend to backend.</h3>

@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [cyclic.sh](https://graceful-blue-cowboy-boots.cyclic.cloud/)
 
-- 💬 Ask me about **Javascript, ReactJS, ExpressJS, NodeJS, MongoDB**
+- 💬 Ask me about **Javascript, React, Express, NodeJS, MongoDB**
 
 - 📫 How to reach me **reachshubhishukla@gmail.com**
 

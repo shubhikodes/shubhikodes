@@ -3,20 +3,22 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN-yWUsZN0-QcoYFqpqPErWrRejpbxYLO93Q&usqp=CAU" alt="cover image" style="width: 100%; max-width: 100%;">
 
-<h1 align="center">Hi 👋, I'm Shubhi Shukla</h1>
+<h1 align="center">Hi 👋 I'm Shubhi Shukla</h1>
 <h3 align="center">A dedicated full-stack developer deeply driven by the art of coding and the thrill of crafting seamless digital experiences from frontend to backend.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSct5qdxcy9AvzeFiYyRdVGHkgTMxgrXTpIvA&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhikodes&label=Profile%20views&color=0e75b6&style=flat" alt="shubhikodes" /> </p>
 
-- 👨‍💻 All of my projects are available at [cyclic.sh](https://graceful-blue-cowboy-boots.cyclic.cloud/)
+- 👨‍💻 Detailed Info In [Portfolio](https://graceful-blue-cowboy-boots.cyclic.cloud/)
 
-- 💬 Ask me about **Javascript, React, Express, NodeJS, MongoDB**
+- 💬 Ask Me About **Javascript, ReactJS, ExpressJS, NodeJS, MongoDB**
 
-- 📫 How to reach me **reachshubhishukla@gmail.com**
+- 📫 How To Reach Me **reachshubhishukla@gmail.com**
 
 - 📄 My [Resume](https://drive.google.com/file/d/1wagCODIq6GlplpisOchYh4qHyULxGtUM/view?usp=sharing)
+
+- 📝 Certified Web Developer By [Udemy](https://www.udemy.com/certificate/UC-3319b95d-ad8d-482c-a45e-758e6aacc1e9/)
 
 <h3 align="left">Connect with me:</h3>     
 <p align="left">

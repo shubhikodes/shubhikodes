@@ -23,10 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>     
 <p align="left">
-<a href="https://linkedin.com/in/shubhi-shukla-b02b65209" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" alt="shubhi-shukla-b02b65209" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/reachshubhishukla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="reachshubhishukla" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/reachshubhishukla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="reachshubhishukla" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shubhi_shukla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhi_shukla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubhi-shukla-b02b65209" target="blank"><img align="center" src="https://img.icons8.com/?size=128&id=118979&format=png" height="40" width="40" style="fill: blue;"></a> <a href="https://www.leetcode.com/reachshubhishukla" target="blank"><img align="center" src="https://img.icons8.com/?size=160&id=fiCYSJOnXi7E&format=png" alt="reachshubhishukla" height="30" width="40" /></a> <a href="https://auth.geeksforgeeks.org/user/reachshubhishukla" target="blank"><img align="center" src="https://img.icons8.com/?size=38&id=AbQBhN9v62Ob&format=png" alt="reachshubhishukla" height="40" width="40" /></a>
+ <a href="https://www.codechef.com/users/shubhi_shukla" target="blank"><img align="center" src="https://img.icons8.com/?size=96&id=LnZMjt9rZC3d&format=png" alt="shubhi_shukla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
